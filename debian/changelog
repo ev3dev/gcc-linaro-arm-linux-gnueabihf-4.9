@@ -1,3 +1,10 @@
+gcc-linaro-arm-linux-gnueabihf-4.9 (2015.05) trusty; urgency=medium
+
+  * Update to 2015.05 release.
+  * Package is now amd64 instead of i386.
+
+ -- David Lechner <david@lechnology.com>  Mon, 18 Jan 2016 13:31:30 -0600
+
 gcc-linaro-arm-linux-gnueabihf-4.9 (2014.09) trusty; urgency=low
 
   * Initial Release.

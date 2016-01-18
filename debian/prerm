@@ -19,7 +19,7 @@ set -e
 
 case "$1" in
     remove|upgrade|deconfigure)
-	rm -rf /usr/lib/i386-linux-gnu/gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux
+	rm -rf /usr/lib/x86_64-linux-gnu/gcc-linaro-arm-linux-gnueabihf-4.9-2015.05_linux
     ;;
 
     failed-upgrade)
